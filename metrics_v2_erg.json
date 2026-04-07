@@ -1,0 +1,68 @@
+{
+  "version": "V2_clinique_plus_ERG",
+  "best_model": "LogisticRegression",
+  "accuracy": 0.6470588235294118,
+  "auc": 0.6605876393110436,
+  "report": {
+    "0": {
+      "precision": 0.45161290322580644,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.5384615384615384,
+      "support": 21.0
+    },
+    "1": {
+      "precision": 0.8108108108108109,
+      "recall": 0.6382978723404256,
+      "f1-score": 0.7142857142857143,
+      "support": 47.0
+    },
+    "accuracy": 0.6470588235294118,
+    "macro avg": {
+      "precision": 0.6312118570183086,
+      "recall": 0.6524822695035462,
+      "f1-score": 0.6263736263736264,
+      "support": 68.0
+    },
+    "weighted avg": {
+      "precision": 0.699882045233089,
+      "recall": 0.6470588235294118,
+      "f1-score": 0.6599870717517776,
+      "support": 68.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      14,
+      7
+    ],
+    [
+      17,
+      30
+    ]
+  ],
+  "models_comparison": {
+    "RandomForest": {
+      "accuracy": 0.6617647058823529,
+      "auc": 0.6271529888551165
+    },
+    "LogisticRegression": {
+      "accuracy": 0.6470588235294118,
+      "auc": 0.6605876393110436
+    },
+    "GradientBoosting": {
+      "accuracy": 0.5882352941176471,
+      "auc": 0.5987841945288754
+    }
+  },
+  "n_samples": 336,
+  "n_features": 59,
+  "clinical_features": [
+    "age_years",
+    "sex",
+    "va_re_logMar",
+    "va_le_logMar"
+  ],
+  "erg_feature_count": 55,
+  "saved_model_path": "C:\\Users\\CLARK Franlly\\Downloads\\perg_hackathon_project\\model_v2_erg.joblib",
+  "saved_dataset_path": "C:\\Users\\CLARK Franlly\\Downloads\\perg_hackathon_project\\dataset_v2_erg.csv"
+}
