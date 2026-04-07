@@ -1,0 +1,337 @@
+id_record,date,age_years,sex,diagnosis1,diagnosis2,diagnosis3,va_re_logMar,va_le_logMar,unilateral,rep_record,comments
+0001,2016-09-15,13,Male,Normal,,,-0.08,0.06,,,
+0002,2005-09-15,13,Female,Congenital stationary night blindness,,,0.18,0.16,,,
+0003,2019-08-08,49,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.26,0,,Id:0329 - Id:0154 - Id:0049 - Id:0271,
+0004,2004-12-16,43,Female,Retinitis pigmentosa,,,NA,NA,,,
+0005,2016-07-13,47,Female,Normal,,,0.1,0.1,,,
+0006,2006-10-07,20,Male,Retinal toxicity,,,-0.06,0.04,,Id:0112,Toxic maculopathy by isotretinoin
+0007,2015-04-10,43,Male,Normal,,,-0.1,7.0000000000000007E-2,,,Mercury poisoning
+0008,2007-01-24,10,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,1,0.98,,,
+0009,2018-04-12,13,Male,Inherited optic atrophy,,,0.32,0.26,,,Dominant
+0010,2007-03-24,35,Female,Retinitis pigmentosa,,,-7.0000000000000007E-2,7.0000000000000007E-2,,,
+0011,2006-01-14,24,Female,Retinitis pigmentosa,,,0.2,0.1,,,
+0012,2003-11-05,55,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0,0,,Id:0150 - Id:0231 - Id:0147 - Id:0259,
+0013,2017-03-30,55,Female,Paracentral acute middle maculopathy type 2,,,0.52,-0.04,,,
+0014,2010-04-15,19,Female,Stargardt disease,,,0.8,0.92,,,
+0015,2019-12-18,68,Female,Neurological disorder right side,,,0.7,0.84,,,
+0016,2004-05-19,12,Male,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.7,0.8,,,
+0017,2006-07-13,13,Male,X linked retinoschisis,,,-0.04,0,,,
+0018,2006-11-21,59,Female,Macular dystrophy,,,1.1000000000000001,1.38,,,
+0019,2014-03-26,53,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.36,0.1,,Id:0127,
+0020,2007-01-13,23,Male,Stargardt disease,,,0.72,0.78,,,
+0021,2006-03-11,6,Female,Congenital achromatopsia,,,1.3,1.3,,,
+0022,2014-12-31,19,Male,Bilateral optic nerve atrophy,,,0.22,0.1,,,
+0023,2016-07-06,12,Female,Retinitis pigmentosa,,,0.5,0.5,,,
+0024,2014-07-10,77,Male,Age related choroidal atrophy,,,0.2,0.4,,,
+0025,2018-01-31,38,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.08,0.02,,Id:0176,
+0026,2012-12-12,6,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.3,0.7,,,
+0027,2014-03-20,57,Female,Retinitis pigmentosa (sector),,,0.76,0.44,,,Carrier of X-linked Retinitis Pigmentosa
+0028,2015-11-01,47,Female,Stargardt disease,,,0,0,,,
+0029,2014-04-01,43,Male,Normal,,,-0.08,-0.08,,,Mercury poisoning
+0030,2014-08-14,65,Female,Autoimmune retinopathy,Inflammatory disease,,0.14000000000000001,0.16,,,
+0031,2005-01-15,39,Female,Normal,,,0,-0.02,,,Poor visibility in low-light conditions
+0032,2019-12-11,35,Male,Macular dystrophy,Vitelliform macular dystrophy,,0.12,0.34,,,Mutation in PRPH2
+0033,2022-09-21,33,Male,Torpedo maculopathy,,,0.08,0.02,,Id:0324,
+0034,2016-03-09,63,Male,Pattern macular dystrophy,Reticular dystrophy,,-0.02,-0.06,,,
+0035,2015-03-20,32,Male,Normal,,,0,0,,,Mercury poisoning
+0036,2015-01-14,8,Male,X linked retinoschisis,,,0.52,0.26,,,
+0037,2013-03-29,62,Male,Retinitis pigmentosa,,,1.52,1.4,,,
+0038,2004-05-25,35,Male,Retinitis pigmentosa,Usher syndrome,,0.52,0.4,,,
+0039,2017-03-24,37,Male,Normal,,,0,0,,,Mercury poisoning
+0040,2004-01-07,50,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0,0.04,,,
+0041,2004-12-15,34,Male,Traumatic optic neuropathy,,,-0.08,0.02,LE,,
+0042,2005-08-25,70,Female,Normal,,,NA,NA,,,
+0043,2017-07-26,51,Female,Rubella retinopathy,,,NA,NA,,,No electrophysiological alteration is expected
+0044,2006-06-17,38,Male,Macular dystrophy,Vitelliform macular dystrophy,,0.4,0.52,,,
+0045,2020-05-22,23,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.84,0.82,,,
+0046,2016-03-23,51,Female,Retinal toxicity,,,0.84,1.06,,,
+0047,2019-12-26,39,Female,Normal,,,0,0,,,Family history of retinitis pigmentosa
+0048,2015-05-08,31,Male,Normal,,,-0.04,-0.02,,,Mercury poisoning
+0049,2005-12-31,36,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.12,-0.08,,Id:0329 - Id:0003 - Id:0154 - Id:0271,
+0050,2006-08-02,27,Female,Retinitis pigmentosa,,,NA,NA,,Id:0109,
+0051,2006-06-23,9,Female,Normal,,,0.66,0.64,,,Alteration in visual acuity
+0052,2003-06-13,56,Male,Macular dystrophy,Central areolar choroidal dystrophy,,0.4,0.12,,,
+0053,2007-02-10,51,Male,Nonarteritic anterior ischemic optic neuropathy,Macular hole,,-0.04,0.8,LE,,
+0054,2004-10-06,37,Male,Retinitis pigmentosa,,,0.66,0.46,,,
+0055,2007-01-24,77,Male,Retrobulbar neuritis,,,0.8,0,RE,,
+0056,2021-08-18,15,Female,Normal,,,0.22,0.16,,,
+0057,2005-09-08,8,Male,Congenital stationary night blindness,,,1,0.8,,,
+0058,2015-06-24,18,Male,Normal,,,-0.06,-0.04,,,Family history of Stargardt disease
+0059,2005-10-13,29,Female,Cone-Rod dystrophy,,,0.4,0.5,,,
+0060,2016-05-19,7,Male,Congenital achromatopsia,,,0,0,,,
+0061,2013-07-31,26,Male,Retinitis pigmentosa,Usher syndrome,,0.5,0.5,,,
+0062,2004-12-11,55,Male,Normal,,,0.16,0.1,,Id:0090,
+0063,2014-10-24,18,Male,Retinitis pigmentosa,,,0.3,0.24,,,
+0064,2015-02-04,13,Female,Normal,,,0.22,0.3,,,
+0065,2003-08-08,32,Male,Normal,,,NA,NA,,,
+0066,2015-05-31,23,Female,Congenital Achromatopsia,Trichromacy,,0.08,-0.06,,,
+0067,2019-11-13,40,Male,Retinitis pigmentosa,,,0.16,0.16,,,
+0068,2004-08-23,17,Female,Optic neuropathy,,,0.4,0.3,,Id:0161,
+0069,2007-04-05,49,Female,Foveal hypoplasia,Congenital abnormality of the retina,,0.4,1,,,
+0070,2005-04-27,61,Male,Macular dystrophy,Periferina,,0.36,0.22,,,
+0071,2004-12-11,52,Female,Normal,,,0.12,0.1,,Id:0157,Alteration in visual acuity. ERG alteration
+0072,2013-04-28,52,Female,Cone-Rod dystrophy,,,0.22,0.3,,,
+0073,2019-12-20,43,Male,Normal,,,-0.1,-0.1,,,
+0074,2014-03-26,7,Male,Normal,,,0.1,0,,,
+0075,2007-09-27,60,Male,Normal,,,0.42,0.66,,,Mercury poisoning
+0076,2015-09-03,46,Male,Normal,,,0.56000000000000005,0.54,,,Malingering is suspected
+0077,2008-10-21,52,Female,Congenital stationary night blindness,,,0.22,0,,,
+0078,2013-11-13,14,Female,Normal,,,0.25,0.25,,,
+0079,2004-06-02,47,Male,Cone-Rod dystrophy,,,0.7,1.24,,,
+0080,2019-12-30,31,Male,Normal,,,-0.1,-0.1,,,
+0081,2016-04-06,50,Female,Retinitis pigmentosa,,,0.4,0.4,,,
+0082,2017-03-22,49,Female,Stargardt disease,,,0.06,0.36,,,
+0083,2004-05-01,33,Male,Retinitis pigmentosa,,,-0.08,0,,Id:0264,
+0084,2017-11-15,49,Female,Inherited optic atrophy,,,3,3,,, Leber's optic neuropathy is suspected
+0085,2017-06-14,34,Male,Normal,,,0,0,,Id:0096,
+0086,2005-04-27,25,Male,Retinitis pigmentosa,,,-0.06,0.06,,Id:0188,
+0087,2018-11-26,15,Female,Normal,,,0.18,0.18,,,LE
+0088,2016-01-14,51,Female,Toxic neuropathy,,,0,-0.02,RE,,
+0089,2019-06-30,60,Female,Retinitis pigmentosa,,,0.06,0.04,,,
+0090,2004-05-12,55,Male,Normal,,,1.3,0.38,,Id:0062,Neuropathy is suspected
+0091,2021-08-28,14,Male,Normal,,,-0.02,-0.02,,,Family history of chorioretinopathy
+0092,2009-09-10,7,Female,Normal,,,0.24,0.34,,,
+0093,2006-05-28,50,Female,Stargardt disease,Fundus flavimaculatus,,0,0,,,
+0094,2007-05-10,62,Female,Pattern macular dystrophy,,,0.12,0.02,,,
+0095,2009-02-05,42,Female,Cone-Rod dystrophy,,,0.34,0.26,,Id:0270,
+0096,2019-12-19,36,Male,Normal,,,NA,NA,,Id:0085,
+0097,2017-01-19,28,Female,Normal,,,1,0.8,,,Malingering is suspected
+0098,2019-04-11,25,Female,Normal,,,-0.04,1.3,,,Malingering is suspected
+0099,2015-04-10,39,Male,Retinal toxicity,Central nervous system toxicity,,-0.08,-0.08,,,Retinal toxicity by silver and copper
+0100,2005-10-06,13,Male,Inherited optic atrophy,,,0.5,0.5,,,Dominant
+0101,2014-12-17,51,Female,Macular dystrophy,Central areolar choroidal dystrophy,,1.08,0.34,,,
+0102,2004-10-23,36,Male,Blue cone monochromatism,,,1,0.98,,,
+0103,2003-11-07,63,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.8,0.12,,,
+0104,2007-08-21,48,Male,Ischemic optic neuropathy,,,-0.08,0.26,LE,,
+0105,2016-09-22,49,Female,Pattern macular dystrophy,,,-0.02,-0.02,,,
+0106,2005-11-27,69,Male,Macular dystrophy,Sorsby Fundus Dystrophy,,0.8,0.34,,,
+0107,2022-01-05,23,Female,Albinoidism ,Congenital abnormality of the retina,Mild amblyopia LE by endophoria,0.06,0.16,,,
+0108,2020-08-20,13,Female,Normal,,,1.3,0.92,,,Chorioretinopathy carrier
+0109,2008-01-17,29,Female,Retinitis pigmentosa,,,0,0,,Id:0050,
+0110,2005-11-27,61,Female,Retinitis pigmentosa,,,0.74,0.12,,,Dominant
+0111,2019-07-31,29,Male,Normal,,,NA,NA,,,
+0112,2005-12-08,19,Male,Retinal toxicity,,,-0.08,-0.04,,Id:0006,Toxic maculopathy by isotretinoin
+0113,2005-11-10,25,Male,Congenital stationary night blindness,,,0.5,0.5,,,
+0114,2014-01-09,18,Male,X linked retinoschisis,,,0.2,0.2,,,
+0115,2020-11-11,12,Male,Normal,,,0.16,0.16,,,
+0116,2014-08-07,39,Male,Normal,,,-0.08,-0.1,,,Mercury poisoning
+0117,2015-12-17,45,Female,Retinitis pigmentosa,,,0.78,0.4,,,
+0118,2015-02-25,45,Male,Normal,,,0,0,,,Mercury poisoning
+0119,2013-03-29,16,Female,Congenital stationary night blindness,,,0.22,0.16,,,
+0120,2004-11-27,19,Female,Retinitis pigmentosa,,,0.4,0.46,,,
+0121,2005-04-13,56,Male,X linked retinoschisis,,,0.8,2,,,
+0122,2006-05-20,46,Male,Normal,,,0.06,0.02,,,Poor vision in RE
+0123,2022-01-19,33,Female,Vitamin A deficit,,,1.6,1.6,,,Retinitis pigmentosa similar
+0124,2015-09-23,41,Male,Normal,,,0.02,-0.08,,,Mercury poisoning
+0125,2009-03-05,33,Male,Pseudopapiledema ,,,1.25,1.25,,,Mercury poisoning
+0126,2016-03-09,43,Male,Autoimmune retinopathy,Inflammatory disease,,-0.02,-0.04,,Id:0221 - Id:0252 - Id:0332,
+0127,2006-11-30,45,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0,0.12,,Id:0019,
+0128,2004-06-30,19,Female,Congenital Achromatopsia,,,1.3,1.3,,,
+0129,2016-04-01,6,Female,Normal,,,0.18,1.44,,,
+0130,2008-01-31,21,Female,Normal,,,0.6,0.6,,,Malingering is suspected
+0131,2019-08-14,51,Female,Autoimmune retinopathy,Inflammatory disease,,0.04,0.05,,Id:0319,
+0132,2015-11-11,46,Male,Macular dystrophy,,,0.96,0.4,,,
+0133,2014-05-26,52,Male,Bilateral optic nerve atrophy,Glaucoma,,0.54,0.32,,,
+0134,2004-10-31,11,Female,Normal,,,0.22,0.3,,,Maturation delay
+0135,2005-10-05,38,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.8,0.3,,,
+0136,2007-03-10,18,Female,Central nervous system infection,,,NA,NA,,,
+0137,2008-01-17,33,Female,Normal,,,-0.08,-0.08,,,Poor visibility in low-light conditions
+0138,2003-05-02,69,Female,Red and blue cone monochromacy,Congenital abnormality of the retina,,0,0,,,
+0139,2022-12-21,17,Female,Stargardt disease,,,-0.1,0,,,
+0140,2018-08-15,45,Male,Central serous chorioretinopathy (CSCR),,,0,0.1,,,
+0141,2014-12-05,48,Male,Normal,,,0,7.0000000000000007E-2,,,Mercury poisoning
+0142,2007-12-20,51,Female,Normal,,,NA,NA,,,Carrier of X-linked Retinitis Pigmentosa
+0143,2007-07-12,20,Female,Macular dystrophy,Periferina,,0.4,0.5,,,
+0144,2003-05-13,30,Female,Normal,,,-0.08,-0.08,,,
+0145,2018-11-14,15,Male,Retinitis pigmentosa,,,0.28000000000000003,0.54,,,
+0146,2015-02-28,44,Male,Retinitis pigmentosa,,,0.18,0.18,,,
+0147,2004-08-28,56,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,-0.04,-0.04,,Id:0012 - Id:0150 - Id:0231 - Id:0259,
+0148,2019-08-07,60,Female,Stargardt disease,,,3,2,,,
+0149,2020-02-05,17,Female,Retinal toxicity,,,0.1,0.1,,,Retinal toxicity by anti-acne skin treatment
+0150,2005-07-13,57,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,-0.04,0.18,,Id:0012 - Id:0147 - Id:0231 - Id:0259,
+0151,2019-11-13,55,Male,Retinitis pigmentosa,,,0.26,0.32,,,
+0152,2017-06-14,21,Male,Retinitis pigmentosa,,,0.1,0,,,
+0153,2021-03-25,29,Female,Infectious neuritis,,,0.2,0.6,LE,,
+0154,2006-10-26,37,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.12,-0.04,,Id:0329 - Id:0003 - Id:0049 - Id:0271,
+0155,2007-07-19,59,Male,Retinitis pigmentosa,,,-0.06,-0.04,,Id:0164,
+0156,2008-10-27,49,Female,Stargardt disease,,,-0.02,-0.04,,Id:0173,
+0157,2004-04-07,52,Female,Normal,,,0.06,0.02,,Id:0071,Alteration in visual acuity. ERG alteration
+0158,2003-07-04,11,Female,Normal,,,0.4,0.52,,,Malingering is suspected
+0159,2007-04-05,51,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.16,0.16,,Id:0256 - Id:0290,
+0160,2003-04-03,22,Female,Stargardt disease,,,0.78,0.8,,,
+0161,2005-02-05,18,Female,Optic neuropathy,,,NA,NA,,Id:0068,
+0162,2017-11-20,45,Male,Normal,,,0.52,2,,,Alteration in visual acuity
+0163,2014-05-15,34,Male,Congenital achromatopsia,,,0.8,0.8,,,
+0164,2008-08-14,60,Male,Retinitis pigmentosa,,,-0.04,0,,Id:0155,
+0165,2003-11-23,67,Female,Normal,,,-0.1,0,,,Carrier of X-linked Retinitis Pigmentosa
+0166,2011-01-07,49,Male,Stargardt disease,,,0.28000000000000003,-0.02,,,
+0167,2021-04-15,59,Female,Pseudovitelliform macular dystrophy,,,0.4,0.04,,,
+0168,2018-12-29,60,Male,Macular dystrophy,Benign concentric annular macular dystrophy,,0.18,0.18,,,
+0169,2007-10-11,59,Male,Optic neuropathy,Posterior Uveitis,Inflammatory disease,0,1.3,,,
+0170,2014-12-04,50,Male,Normal,,,-0.02,-0.02,,,Mercury poisoning
+0171,2003-05-09,81,Male,Retinitis pigmentosa,,,0.8,0.4,,,
+0172,2016-10-31,17,Female,Normal,,,NA,NA,,,Family history of Wolfram syndrome
+0173,2013-04-01,54,Female,Stargardt disease,,,0,0,,Id:0156,
+0174,2006-02-28,37,Male,Macular dystrophy,Periferina,,0.24,0.04,,,
+0175,2018-09-19,37,Female,Normal,,,0,0,,,
+0176,2014-03-01,34,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.4,0.08,,Id:0025,
+0177,2021-08-23,45,Female,Macular dystrophy,Alport syndrome: Systemic disorder with ocular manifestations,,0.28000000000000003,1.08,,,
+0178,2016-03-23,51,Female,Macular dystrophy,Vitelliform macular dystrophy,,0.04,0.04,,,
+0179,2019-09-29,39,Male,Normal,,,-0.04,-0.08,,,
+0180,2014-09-18,57,Male,Normal,,,0.52,0.28000000000000003,,,
+0181,2019-07-03,47,Male,Retinitis pigmentosa,,,0.04,-0.04,,,
+0182,2021-07-08,36,Male,Inherited optic atrophy,,,0.14000000000000001,0,,,Dominant
+0183,2004-03-03,55,Male,Stargardt disease,,,0.36,0.8,,,
+0184,2021-09-15,65,Female,Normal,,,3,2,,,Mercury poisoning / Central nervous system affectation is suspected
+0185,2008-11-06,77,Male,Nonarteritic anterior ischemic optic neuropathy,,,1.5,0.1,RE,,
+0186,2014-05-15,37,Female,Stargardt disease,,,1.02,1,,,
+0187,2003-08-13,38,Female,Normal,,,0,0,,,
+0188,2004-01-27,24,Male,Retinitis pigmentosa (sector),,,0,0,,Id:0086,
+0189,2005-12-10,48,Male,Central serous chorioretinopathy (CSCR),,,0.68,1.3,,,
+0190,2007-07-12,42,Female,Macular dystrophy,Periferina,,0.4,0.5,,,
+0191,2020-07-30,16,Male,Cone-Rod dystrophy,,,0,0,,,Early
+0192,2016-05-18,42,Female,Central serous chorioretinopathy (CSCR),,,0.4,0.5,,,
+0193,2007-12-20,9,Male,Retinitis pigmentosa,Down's Syndrome,,NA,NA,,,
+0194,2015-03-18,61,Male,Normal,,,2.2999999999999901,0.04,,,Malingering is suspected
+0195,2019-04-04,60,Male,Macular dystrophy,Dominant drusen,,0.1,0.6,,,
+0196,2009-10-29,14,Female,Normal,,,-0.02,-0.02,,Id:0336,
+0197,2015-02-04,21,Female,Normal,,,1.52,1.52,,,Alteration in visual acuity. Malingering is suspected
+0198,2014-01-02,9,Female,Normal,,,0.16,0.1,,,
+0199,2014-05-31,16,Female,Normal,,,0.22,0.16,,,Malingering is suspected
+0200,2007-08-09,9,Female,Normal,,,0,0.14000000000000001,,,
+0201,2007-09-27,10,Male,Systemic disorder with ocular manifestations,Retinal astrocytic hamartoma,Bourneville disease,0.16,0.3,,,No electrophysiological alteration is expected unless a tumor in the macula or extensive area
+0202,2015-11-04,62,Female,Normal,,,0,0.04,,,
+0203,2006-01-23,36,Female,Retinal toxicity,Systemic disorder with ocular manifestations,,0,0,,Id:0292,CO intoxication: myopathy and altered ERG
+0204,2005-06-29,51,Male,Traumatic optic neuropathy,,,3,-0.08,,,
+0205,2004-06-30,41,Female,Retinitis pigmentosa (sector),,,0.16,0.1,,,
+0206,2015-01-30,48,Male,Macular telangiectasias,,,-0.04,-0.08,,,Mercury poisoning
+0207,2008-04-10,51,Female,Sarcoidosis neuropathy,Inflammatory disease,,3,3,,,
+0208,2014-08-14,11,Male,Normal,,,0.1,0.16,,,
+0209,2020-03-18,20,Female,Retinitis pigmentosa,,,-0.08,-0.08,,,ABCA4 mutation
+0210,2018-05-10,13,Male,Normal,,,0.16,0.1,,,
+0211,2004-09-25,86,Female,Normal,,,0.36,0.3,,Id:0268,
+0212,2015-01-30,43,Male,Normal,,,-0.08,-0.08,,,Mercury poisoning
+0213,2003-12-04,39,Female,Retinitis pigmentosa,,,3,0.16,,,
+0214,2016-03-16,52,Female,Macular dystrophy,Dominant drusen,,0.04,0.2,,,
+0215,2016-02-28,53,Male,Normal,,,0,-0.04,,,Mercury poisoning
+0216,2017-12-20,18,Female,Retinitis pigmentosa,,,0.2,0.2,,,
+0217,2015-01-22,8,Female,Normal,,,0.16,0.16,,,
+0218,2015-01-09,38,Male,Normal,,,-0.08,-0.04,,,Mercury poisoning
+0219,2003-02-26,49,Female,Systemic disorder with ocular manifestations,Pattern macular dystrophy,Kearns-Sayre syndrome,-0.04,-0.04,,,
+0220,2003-09-19,16,Male,Retinitis pigmentosa,,,0.26,0.26,,,
+0221,2020-04-09,47,Male,Autoimmune retinopathy,Inflammatory disease,,-0.04,-0.08,,Id:0252 - Id:0332 - Id:0126,
+0222,2015-09-16,43,Male,Retinitis pigmentosa,,,0.22,0.4,,,
+0223,2014-12-05,39,Male,Normal,,,0.04,0.04,,,Mercury poisoning
+0224,2015-07-08,58,Male,Congenital stationary night blindness,,,0.28000000000000003,0.28000000000000003,,,
+0225,2015-07-17,47,Male,Normal,,,0,0.36,,,Mercury poisoning
+0226,2003-08-06,34,Female,Normal,,,-0.08,-0.08,,,
+0227,2015-08-28,11,Female,Cone-Rod dystrophy,,,0.44,0.48,,,
+0228,2010-08-19,37,Male,Cone-Rod dystrophy,,,NA,NA,,,
+0229,2005-09-22,55,Male,Pathologic myopia,,,0.16,0.16,,,Poor visibility in low-light conditions
+0230,2021-08-11,47,Female,Retinitis pigmentosa,,,NA,NA,,,
+0231,2006-06-17,58,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0,0.02,,Id:0012 - Id:0147 - Id:0150 - Id:0259,
+0232,2004-12-04,81,Male,Macula toxicity,Chloroquine poisoning,,0.26,1.3,,,
+0233,2016-10-22,22,Male,Normal,,,0.08,-0.08,,,
+0234,2017-01-23,38,Male,Macular dystrophy,Periferina,,-0.06,0,,,
+0235,2006-11-24,57,Female,Arterio-venous malformation in right thalamus,,,1,0.8,,,Central nervous system affectation
+0236,2013-01-01,7,Male,Albinism,Congenital abnormality of the retina,Oculocutaneous albinism,0.3,0.3,,,
+0237,2014-01-02,7,Female,Central nervous system disorder,14q32 deletion: Systemic disorder with ocular manifestations,,0.8,0.7,,,
+0238,2003-08-15,41,Male,Normal,,,0,0,,,
+0239,2005-01-12,35,Male,Cone-Rod dystrophy,,,1.3,1.3,,,
+0240,2017-08-21,47,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0.1,0,,,
+0241,2014-04-01,56,Male,Normal,,,0.22,0.3,,,Mercury poisoning
+0242,2007-11-29,19,Male,Inherited optic atrophy,,,0.18,0.8,,,Dominant
+0243,2018-10-21,33,Male,Retinitis pigmentosa,,,-0.04,-0.04,,,
+0244,2017-02-02,8,Male,Congenital stationary night blindness,,,0.52,0.4,,,
+0245,2019-03-01,67,Female,Retinitis pigmentosa,Sectorial-Rodopsina,,0,0.96,,,
+0246,2004-08-18,61,Male,Cone-Rod dystrophy,,,1.3,0.4,,,
+0247,2003-05-10,29,Female,Retinitis pigmentosa,,,-0.08,-0.08,,,Incipient
+0248,2004-09-29,54,Male,Bilateral Optic Atrophy,Retinal vein occlusion,,1.3,3,,,
+0249,2017-03-15,4,Male,Albinism,Congenital abnormality of the retina,,0.3,0.3,,,Family history of retinitis pigmentosa
+0250,2003-09-12,19,Male,Stargardt disease,,,0.2,0.52,,,
+0251,2003-07-09,30,Male,Normal,,,0,0,,,
+0252,2017-04-29,44,Male,Autoimmune retinopathy,Inflammatory disease,,0,0,,Id:0221 - Id:0332 - Id:0126,
+0253,2015-01-22,16,Male,Stargardt disease,Cone-Rod dystrophy,,0.78,0.88,,,
+0254,2017-03-08,38,Female,External ophthalmoplegia,Speckled retinal pigment epithelium,,0.04,0.06,,,
+0255,2005-08-30,54,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,-0.02,-0.04,,,
+0256,2006-10-26,50,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.12,0.14000000000000001,,Id:0159 - Id:0290,
+0257,2003-10-15,22,Male,Macular dystrophy,Periferina,,NA,NA,,,
+0258,2006-08-25,21,Female,Normal,,,-0.08,-0.08,,,Family history of retinitis pigmentosa
+0259,2003-02-26,55,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0,0,,Id:0231 - Id:0147 - Id:0012 - Id:0150,
+0260,2003-11-25,67,Female,Nonarteritic anterior ischemic optic neuropathy,,,1.54,0.96,,,Bilateral affectation
+0261,2003-03-08,28,Female,Normal,,,0,0,,,
+0262,2019-09-11,10,Female,Normal,,,0.06,0.14000000000000001,,,
+0263,2003-06-22,14,Female,Normal,,,0.2,0.18,,,
+0264,2007-08-22,36,Male,Retinitis pigmentosa,,,-0.08,-0.08,,Id:0083,
+0265,2016-12-15,9,Female,Normal,,,0,0,,,
+0266,2015-05-15,53,Male,Normal,,,-0.1,-0.1,,,Mercury poisoning
+0267,2008-07-22,61,Male,Central serous chorioretinopathy (CSCR),,,0.22,1.3,,,
+0268,2003-12-03,85,Female,Normal,,,0.5,0.36,,Id:0211,
+0269,2014-11-01,51,Male,Normal,,,0.02,0.02,,,Alteration in visual acuity
+0270,2007-05-17,40,Female,Cone-Rod dystrophy,,,0.2,0.22,,Id:0095,
+0271,2007-11-08,38,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.08,-0.04,,Id:0049 - Id:0003 - Id:0329 - Id:0154,
+0272,2017-08-22,40,Male,Normal,,,0.1,0,,Id:0300,Mercury poisoning
+0273,2013-08-24,26,Male,Inherited optic atrophy,,,0.04,1,,,Dominant
+0274,2014-07-17,52,Male,Normal,,,0.1,0.1,,,Mercury poisoning
+0275,2018-09-05,72,Male,Autoimmune retinopathy,Inflammatory disease,,0.1,0.06,,,Similar to retinitis pigmentosa
+0276,2009-10-29,27,Female,Cone-Rod dystrophy,Fundus flavimaculatus,,1.3,0.92,,,
+0277,2003-07-11,40,Female,Normal,,,0,0.8,,,Malingering is suspected
+0278,2018-09-12,10,Male,Cone-Rod dystrophy,,,0.52,0.52,,,
+0279,2006-12-16,14,Male,Retinitis pigmentosa,,,0.8,0,,,
+0280,2019-11-06,35,Female,Retinitis pigmentosa,,,NA,NA,,,
+0281,2015-10-24,29,Male,Normal,,,-0.02,-0.06,,,Mercury poisoning
+0282,2009-01-08,22,Male,Macular dystrophy,Vitelliform macular dystrophy,,0.08,0.8,,,
+0283,2007-01-13,27,Female,Normal,,,-0.1,-0.1,,,Impaired Dark Adaptation
+0284,2013-10-09,54,Female,Macular dystrophy,Dominant drusen,,0.04,0.04,,,
+0285,2014-08-14,9,Male,Albinoidism ,Congenital abnormality of the retina,,NA,NA,,,
+0286,2016-07-06,40,Female,Retinitis pigmentosa,Bietti's Crystalline Corneoretinal Dystrophy,,0,0.12,,,
+0287,2017-11-29,41,Male,Congenital Achromatopsia,,,0.7,0.7,,,
+0288,2004-10-16,18,Male,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.8,0.26,,,
+0289,2006-07-15,14,Female,Optic neuropathy,,,1.5,1.5,,,
+0290,2005-12-31,49,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.1,0.16,,Id:0159 - Id:0256,
+0291,2016-04-24,7,Female,Normal,,,0.52,0.52,,,Maturation delay
+0292,2005-04-06,35,Female,Retinal toxicity,Systemic disorder with ocular manifestations,,0,0,,Id:0203,CO intoxication: myopathy and altered ERG
+0293,2004-04-07,30,Male,Normal,,,0.16,-0.04,,,Abnormal pigmentation
+0294,2006-06-17,23,Male,Anisometropic amblyopia,,,0.98,0.14000000000000001,RE,,
+0295,2016-08-10,44,Male,Congenital stationary night blindness,,,0.8,0.6,,,
+0296,2021-08-28,33,Male,Retinitis pigmentosa,,,0.02,0,,,
+0297,2004-10-26,29,Female,Inherited optic atrophy,,,0.52,0.52,,,
+0298,2004-12-01,32,Female,Cone-Rod dystrophy,,,0.52,0.3,,,
+0299,2018-03-14,80,Female,Pseudo retinitis pigmentosa,Posterior Uveitis,Inflammatory disease,1.18,0,,,
+0300,2015-01-09,37,Male,Normal,,,-0.06,-0.06,,Id:0272,Mercury poisoning
+0301,2015-05-15,52,Male,Normal,,,-0.02,-0.04,,,Mercury poisoning
+0302,2017-07-19,27,Female,Cone-Rod dystrophy,,,0.4,0.4,,,
+0303,2019-02-07,9,Female,Normal,,,0.04,0.16,,,Carrier of X-linked Retinitis Pigmentosa
+0304,2004-04-30,24,Female,Retinitis pigmentosa,,,0.1,0.16,,,
+0305,2015-09-09,25,Female,Normal,,,0.3,0.3,,,
+0306,2004-01-15,59,Female,Acute macular neuroretinopathy,Inflammatory disease,,0.02,-0.06,,,
+0307,2013-08-24,49,Female,Retinitis pigmentosa,Usher syndrome,,0,0.1,,,
+0308,2021-04-15,19,Female,Inherited optic atrophy,,,-0.02,0,,,Recessive
+0309,2015-05-08,39,Male,Normal,,,-0.06,-0.06,,,Mercury poisoning
+0310,2015-04-22,41,Female,Normal,,,0,0.08,,,
+0311,2003-09-19,16,Male,Retinitis pigmentosa,,,0.28000000000000003,0.26,,,
+0312,2018-03-27,48,Female,Pathologic myopia,,,1.1000000000000001,1.34,,,
+0313,2020-08-05,5,Female,Inherited optic atrophy,,,0.68,0.7,,,Autosomal recessive
+0314,2015-10-24,42,Male,Normal,,,0.3,0.2,,,Mercury poisoning
+0315,2016-06-23,22,Female,Normal,,,-0.02,-0.08,,,Family history of glioma NF type 1
+0316,2015-01-02,34,Female,Affectation of the chiasm,Bitemporal hemianopsia by acrylamide poisoning,,-0.04,-0.08,,,
+0317,2004-09-25,34,Female,Retinitis pigmentosa,,,0.14000000000000001,0.12,,,
+0318,2003-11-05,61,Female,Chorioretinopathy Birdshot type,Inflammatory disease,,0.06,0.06,,,
+0319,2020-03-27,52,Female,Autoimmune retinopathy,Inflammatory disease,,-0.08,0.02,,Id:0131,
+0320,2005-09-14,19,Female,Albinism,Congenital abnormality of the retina,,0.46,0.16,,,
+0321,2014-03-06,31,Male,Stargardt disease,,,0.66,0.48,,,
+0322,2007-07-26,50,Female,Central serous chorioretinopathy (CSCR),,,-0.02,-0.08,,,
+0323,2014-04-10,52,Male,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,NA,NA,,,
+0324,2020-08-20,31,Male,Torpedo maculopathy,,,0.2,0.12,,Id:0033,
+0325,2016-02-04,61,Male,Inherited optic atrophy,,,0.4,0.56000000000000005,,,Dominant
+0326,2015-03-20,40,Male,Normal,,,-0.04,-0.04,,,Mercury poisoning
+0327,2015-12-03,24,Female,Normal,,,0,-0.06,,,Poor visibility in low-light conditions
+0328,2014-12-04,46,Male,Normal,,,-0.02,-0.02,,,Mercury poisoning
+0329,2013-12-05,44,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.1,0,,Id:0154 - Id:0049 - Id:0003 - Id:0271,
+0330,2003-07-16,43,Female,Normal,,,NA,NA,,,Alteration in visual acuity
+0331,2015-07-09,60,Female,Macular dystrophy,Central areolar choroidal dystrophy,,0,0,,,
+0332,2016-11-17,43,Male,Autoimmune retinopathy,Inflammatory disease,,0.02,0,,Id:0221 - Id:0252 - Id:0126,
+0333,2015-01-14,4,Male,X linked retinoschisis,,,1,0.52,,,
+0334,2021-08-28,14,Male,Normal,,,-0.1,-0.06,,,Family history of chorioretinopathy
+0335,2007-12-20,23,Female,Retinitis pigmentosa,,,0,0,,,
+0336,2003-12-04,8,Female,Normal,,,0,0,,Id:0196,
